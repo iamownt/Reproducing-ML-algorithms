@@ -1,1 +1,1 @@
-# reproducing-statistical-learning-s-algorithm
+# reproducing-statistical-learning's-algorithm
