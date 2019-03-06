@@ -7,3 +7,4 @@
 6. Perception:create the dual form and the original form Perceptron! Try hard!
 7. AdaBoost: A silly work for AdaBoost. Just for special 2 class classification. But you will know the process in Adaptive Boosting methods..
 8. RandomForest: just set the n_estimators. we can set the max_features, but I just do it very easy. if you want to change to the ExtraTreesClassifier, just set the splitter='random'. I don't show the n_sub concept in the code. just easy...
+9.DNN: using 8 lines to produce the one layer DNN. the complex DNN is just for Regression problems. if want to change to Classification, just change the Loss function and add the softmax..But it just works well on few layers. Maybe the weights initialization is not good??
